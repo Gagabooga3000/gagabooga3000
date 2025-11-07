@@ -140,7 +140,7 @@ const gagabooga3000 = {
 
 <div align="center">
   
-   ![Количество посетителей](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGagabooga3000&count_bg=%2300D9FF&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9&edge_flat=false)
+  ![Количество посетителей](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGagabooga3000&count_bg=%2300D9FF&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9&edge_flat=false)
    
   **Спасибо за посещение! ❤️**
   
