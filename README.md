@@ -66,7 +66,7 @@ const gagabooga3000 = {
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gagabooga3000&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Gagabooga3000&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
   
 </div>
 
@@ -86,7 +86,7 @@ const gagabooga3000 = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Gagabooga3000/Gagabooga3000/blob/output/github-contribution-grid-snake.svg)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagabooga3000&theme=tokyo-night&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area=true&hide_border=false)
   
 </div>
 
@@ -111,7 +111,7 @@ const gagabooga3000 = {
 - **[TechMVP](https://github.com/Gagabooga3000/TechMVP)** - Технологический MVP проект
 - **[Cloud Storage Site](https://github.com/Gagabooga3000/site-Cloud-storage)** - Сайт облачного хранилища
 - **[Internet Shop Project](https://github.com/Gagabooga3000/Internet-Shop-project)** - Проект интернет-магазина
-- **[Chucmobla](https://github.com/Gagabooga3000/chucmobla)** - Проект Chucmobla
+- **[Chucmobla](https://github.com/Gagabooga3000/chucmobla)** - Проект Мобильного Приложения для колледжа
 
 ---
 
@@ -140,8 +140,8 @@ const gagabooga3000 = {
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/Gagabooga3000/count.svg)
-  
+   ![Количество посетителей](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGagabooga3000&count_bg=%2300D9FF&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9&edge_flat=false)
+   
   **Спасибо за посещение! ❤️**
   
   ⭐️ От [gagabooga3000](https://github.com/Gagabooga3000)
