@@ -2,8 +2,11 @@
 
 <!-- Анимированный заголовок с градиентом -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Привет,+я+Павел!;💻+Люблю+программировать;🚀+Постоянно+развиваюсь+и+познаю+новое&font=Fira%20Code&color=667eea&size=35&center=true&width=900&height=60&duration=4000&pause=1500" alt="Анимация печатающегося текста" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Привет,+я+Павел!;💻+Люблю+программировать;🚀+Постоянно+развиваюсь+и+познаю+новое;⚡+Создаю+крутые+проекты&font=Fira%20Code&color=667eea&size=35&center=true&width=900&height=60&duration=4000&pause=1500" alt="Анимация печатающегося текста" />
 </h1>
+
+<!-- Анимированная иконка профиля -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea:764ba2&height=120&section=header&text=Павел&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
 
 <!-- 3D Анимированные бейджи -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
@@ -130,44 +133,38 @@
 
 <br/>
 
-<!-- Анимация змейки из коммитов -->
+<!-- Анимированная змейка из коммитов -->
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Gagabooga3000/gagabooga3000/output/github-contribution-grid-snake.svg" 
-    alt="Анимация змейки из коммитов"
-  />
+  <img src="https://raw.githubusercontent.com/Gagabooga3000/Gagabooga3000/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-<!-- 
-  ⚙️ ИНСТРУКЦИЯ ПО НАСТРОЙКЕ ЗМЕЙКИ:
-  
-  1. Убедитесь, что репозиторий gagabooga3000 существует
-  2. Скопируйте файл .github/workflows/snake.yml в этот репозиторий
-  3. Перейдите в репозиторий Gagabooga3000/gagabooga3000
-  4. Откройте вкладку Actions
-  5. Найдите "Generate Snake Animation" и нажмите "Run workflow"
-  6. После выполнения workflow змейка появится автоматически
-  
-  Альтернатива: используйте сервис https://github.com/Platane/snk для генерации
--->
 
 <br/>
 
-<!-- Секция контактов -->
+<!-- Современная секция с достижениями -->
+<div align="center">
+  <h2 align="center">🏆 Достижения</h2>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagabooga3000&theme=radical" alt="Profile Details" />
+  </p>
+</div>
+
+<br/>
+
+<!-- Секция контактов с анимированными кнопками -->
 <h2 align="center">📬 Связь со мной</h2>
 
 <div align="center">
   <a href="https://github.com/Gagabooga3000" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   <a href="https://steamcommunity.com/id/pb_bunny/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000" alt="Steam" />
   </a>
   <a href="https://vk.com/pb.bunny" target="_blank">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте" />
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&labelColor=0077FF" alt="ВКонтакте" />
   </a>
   <a href="https://t.me/pb_bunny" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" />
   </a>
 </div>
 
@@ -180,28 +177,100 @@
 
 <br/>
 
-<!-- Секция о себе -->
+<!-- Секция о себе с анимированным текстом -->
 <div align="center">
   <h2 align="center">💭 О себе</h2>
   <p align="center">
     💻 Люблю программировать и создавать интересные проекты<br/>
     🚀 Постоянно развиваюсь и познаю новое<br/>
-    🎯 Стремлюсь к совершенству в коде и новых технологиях
+    🎯 Стремлюсь к совершенству в коде и новых технологиях<br/>
+    ⚡ Факт: Люблю решать сложные задачи и находить элегантные решения
   </p>
 </div>
 
 <br/>
 
-<!-- Счётчик просмотров -->
+<!-- Секция с интересными фактами -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gagabooga3000&color=667eea&style=for-the-badge" alt="Просмотры профиля" />
+  <h2 align="center">📊 Интересные факты</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gagabooga3000&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea&border_radius=10&hide=contribs,issues" alt="GitHub Stats" />
+  </p>
+  <p align="center" style="font-size: 16px; color: #667eea; margin-top: 20px;">
+    💡 Люблю изучать новые технологии и применять их в проектах<br/>
+    🎨 Создаю не только функциональный, но и красивый код<br/>
+    🔥 Всегда открыт к новым вызовам и интересным задачам
+  </p>
 </div>
 
 <br/>
 
-<!-- Подвал -->
+<!-- Анимированная секция с русской цитатой -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=65&section=footer" alt="Подвал" />
+  <h2 align="center">💬 Вдохновляющая цитата</h2>
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; max-width: 800px; margin: 0 auto; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);">
+    <p style="font-size: 18px; color: #ffffff; font-style: italic; margin: 0; line-height: 1.6;">
+      "Программирование — это искусство решения задач одной строкой кода, которая работает."<br/>
+      <span style="font-size: 14px; opacity: 0.9; margin-top: 10px; display: block;">— Неизвестный программист</span>
+    </p>
+  </div>
+</div>
+
+<br/>
+
+<!-- Секция с кастомными карточками -->
+<div align="center">
+  <h2 align="center">📈 Детальная статистика</h2>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gagabooga3000&theme=radical" alt="Repos per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gagabooga3000&theme=radical" alt="Most commit language" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gagabooga3000&theme=radical" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gagabooga3000&theme=radical&utcOffset=3" alt="Productive time" />
+  </p>
+</div>
+
+<br/>
+
+<!-- Счётчик просмотров и дополнительные метрики -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gagabooga3000&color=667eea&style=for-the-badge" alt="Просмотры профиля" />
+  <img src="https://img.shields.io/github/followers/Gagabooga3000?label=Followers&style=for-the-badge&color=667eea&logoColor=white" alt="GitHub Followers" />
+</div>
+
+<br/>
+
+<!-- Секция с дополнительными навыками -->
+<div align="center">
+  <h2 align="center">⚡ Дополнительные навыки</h2>
+  <p align="center">
+    <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-FF6F00?style=flat-square&logo=rest&logoColor=white" />
+    <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  </p>
+</div>
+
+<br/>
+
+<!-- Секция с анимированными иконками инструментов -->
+<div align="center">
+  <h2 align="center">🛠️ Инструменты разработки</h2>
+  <p align="center">
+    <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  </p>
+</div>
+
+<br/>
+
+<!-- Анимированная секция с GitHub Snake (дубликат убран, оставлен только один) -->
+
+<!-- Подвал с улучшенной анимацией -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea:764ba2&height=65&section=footer&animation=twinkling&fontColor=ffffff" alt="Подвал" />
 </div>
 
 <!-- 3D Анимированный SVG фон -->
