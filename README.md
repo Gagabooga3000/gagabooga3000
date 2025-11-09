@@ -154,18 +154,24 @@
 <h2 align="center">📬 Связь со мной</h2>
 
 <div align="center">
+  <p style="font-size: 18px; color: #667eea; margin-bottom: 20px;">
+    💼 Для деловых предложений и сотрудничества:
+  </p>
   <a href="https://github.com/Gagabooga3000" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-  </a>
-  <a href="https://steamcommunity.com/id/pb_bunny/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000" alt="Steam" />
-  </a>
-  <a href="https://vk.com/pb.bunny" target="_blank">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&labelColor=0077FF" alt="ВКонтакте" />
   </a>
   <a href="https://t.me/pb_bunny" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" />
   </a>
+  <a href="https://vk.com/pb.bunny" target="_blank">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&labelColor=0077FF" alt="ВКонтакте" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <p style="font-size: 16px; color: #764ba2;">
+    📧 Предпочитаю общение через Telegram или ВКонтакте
+  </p>
 </div>
 
 <br/>
@@ -186,6 +192,95 @@
     🎯 Стремлюсь к совершенству в коде и новых технологиях<br/>
     ⚡ Факт: Люблю решать сложные задачи и находить элегантные решения
   </p>
+</div>
+
+<br/>
+
+<!-- Профессиональная секция для HR -->
+<div align="center">
+  <h2 align="center">💼 Готов к сотрудничеству</h2>
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; max-width: 900px; margin: 0 auto; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.4);">
+    <p style="font-size: 20px; color: #ffffff; font-weight: bold; margin-bottom: 20px;">
+      🎯 Ищу интересные проекты и возможности для профессионального роста
+    </p>
+    <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+      <div style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; flex: 1; min-width: 200px;">
+        <p style="color: #ffffff; margin: 0; font-size: 16px;">✅ Готов к удаленной работе</p>
+      </div>
+      <div style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; flex: 1; min-width: 200px;">
+        <p style="color: #ffffff; margin: 0; font-size: 16px;">✅ Готов к офисной работе</p>
+      </div>
+      <div style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; flex: 1; min-width: 200px;">
+        <p style="color: #ffffff; margin: 0; font-size: 16px;">✅ Гибкий график</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br/>
+
+<!-- Ключевые компетенции для HR -->
+<div align="center">
+  <h2 align="center">⭐ Ключевые компетенции</h2>
+  <table style="margin: 0 auto; max-width: 800px;">
+    <tr>
+      <td style="padding: 15px; text-align: left; vertical-align: top;">
+        <h3 style="color: #667eea;">🎯 Технические навыки</h3>
+        <ul style="text-align: left; line-height: 1.8;">
+          <li>Full-stack разработка (Frontend + Backend)</li>
+          <li>Работа с базами данных (MySQL)</li>
+          <li>Разработка веб-приложений</li>
+          <li>Мобильная разработка (Kotlin)</li>
+          <li>Верстка и создание пользовательских интерфейсов</li>
+        </ul>
+      </td>
+      <td style="padding: 15px; text-align: left; vertical-align: top;">
+        <h3 style="color: #764ba2;">💡 Личные качества</h3>
+        <ul style="text-align: left; line-height: 1.8;">
+          <li>Ответственность и пунктуальность</li>
+          <li>Быстрая обучаемость</li>
+          <li>Умение работать в команде</li>
+          <li>Аналитическое мышление</li>
+          <li>Внимание к деталям</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Почему стоит выбрать меня -->
+<div align="center">
+  <h2 align="center">🚀 Почему стоит выбрать меня?</h2>
+  <div style="max-width: 900px; margin: 0 auto; padding: 20px;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+      <div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 20px; border-radius: 15px; border: 2px solid #667eea;">
+        <h3 style="color: #667eea; margin-top: 0;">💪 Многопрофильность</h3>
+        <p style="text-align: left; line-height: 1.6;">
+          Владею несколькими языками программирования и могу работать над разными типами проектов
+        </p>
+      </div>
+      <div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 20px; border-radius: 15px; border: 2px solid #667eea;">
+        <h3 style="color: #667eea; margin-top: 0;">📈 Постоянное развитие</h3>
+        <p style="text-align: left; line-height: 1.6;">
+          Активно изучаю новые технологии и применяю их в реальных проектах
+        </p>
+      </div>
+      <div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 20px; border-radius: 15px; border: 2px solid #667eea;">
+        <h3 style="color: #667eea; margin-top: 0;">🎨 Качество кода</h3>
+        <p style="text-align: left; line-height: 1.6;">
+          Пишу чистый, читаемый и поддерживаемый код с соблюдением best practices
+        </p>
+      </div>
+      <div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 20px; border-radius: 15px; border: 2px solid #667eea;">
+        <h3 style="color: #667eea; margin-top: 0;">⚡ Быстрая адаптация</h3>
+        <p style="text-align: left; line-height: 1.6;">
+          Быстро вливаюсь в команду и начинаю приносить пользу с первых дней
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <br/>
