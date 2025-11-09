@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Привет!+Я+gagabooga3000+%F0%9F%91%8B;Добро+пожаловать+на+мой+GitHub+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Привет%2C+я+Gagabooga3000!;%F0%9F%9A%80+Full+Stack+Developer;%E2%9C%A8+Создаю+крутые+проекты" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/Gagabooga3000?style=for-the-badge&logo=github&color=00D9FF)
-  ![GitHub stars](https://img.shields.io/github/stars/Gagabooga3000?style=for-the-badge&logo=github&color=00D9FF)
-  ![Profile views](https://komarev.com/ghpvc/?username=Gagabooga3000&style=for-the-badge&color=00D9FF)
+  ![GitHub followers](https://img.shields.io/github/followers/Gagabooga3000?style=for-the-badge&logo=github&label=Followers&color=00D9FF)
+  ![GitHub stars](https://img.shields.io/github/stars/Gagabooga3000?style=for-the-badge&logo=github&label=Stars&color=00D9FF)
+  ![Profile views](https://komarev.com/ghpvc/?username=Gagabooga3000&style=for-the-badge&color=00D9FF&label=Profile+Views)
   
 </div>
 
@@ -16,13 +16,25 @@
 
 ## 👨‍💻 Обо мне
 
-```typescript
+```javascript
 const gagabooga3000 = {
   pronouns: "он/его",
-  code: ["JavaScript", "CSS", "HTML", "Python", "C#", "SQL", "MySQL", "PostgreSQL", "PHP", "Node.js"],
-  tools: ["Visual Studio Code", "Visual Studio", "AI Tools"],
-  interests: ["Веб-разработка", "Backend разработка", "Базы данных"],
-  learning: ["Всегда изучаю что-то новое"],
+  code: [
+    "JavaScript", "CSS", "HTML", 
+    "Python", "C#", "SQL", 
+    "MySQL", "PostgreSQL", "PHP", "Node.js"
+  ],
+  tools: [
+    "Visual Studio Code", 
+    "Visual Studio", 
+    "AI Tools"
+  ],
+  interests: [
+    "Веб-разработка", 
+    "Backend разработка", 
+    "Базы данных"
+  ],
+  learning: "Всегда изучаю что-то новое",
   funFact: "Люблю программировать и создавать интересные проекты!"
 };
 ```
@@ -31,27 +43,47 @@ const gagabooga3000 = {
 
 ## 🛠️ Технологический стек
 
-### Языки программирования
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 💻 Языки программирования
 
-### Базы данных
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  
+</div>
 
-### Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🗄️ Базы данных
 
-### Инструменты разработки
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Tools-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+<div align="center">
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  
+</div>
+
+### ⚙️ Backend & Runtime
+
+<div align="center">
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  
+</div>
+
+### 🛠️ Инструменты разработки
+
+<div align="center">
+  
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![AI Tools](https://img.shields.io/badge/AI%20Tools-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+  
+</div>
 
 ---
 
@@ -59,14 +91,15 @@ const gagabooga3000 = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gagabooga3000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagabooga3000&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF"/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gagabooga3000&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
   
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Gagabooga3000&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagabooga3000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagabooga3000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
   
 </div>
 
@@ -76,7 +109,7 @@ const gagabooga3000 = {
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Gagabooga3000&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Gagabooga3000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
   
 </div>
 
@@ -86,7 +119,7 @@ const gagabooga3000 = {
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagabooga3000&theme=tokyo-night&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area=true&hide_border=false)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagabooga3000&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)
   
 </div>
 
@@ -108,10 +141,16 @@ const gagabooga3000 = {
 
 ### 🔥 Избранные проекты
 
-- **[TechMVP](https://github.com/Gagabooga3000/TechMVP)** - Технологический MVP проект
-- **[Cloud Storage Site](https://github.com/Gagabooga3000/site-Cloud-storage)** - Сайт облачного хранилища
-- **[Internet Shop Project](https://github.com/Gagabooga3000/Internet-Shop-project)** - Проект интернет-магазина
-- **[Chucmobla](https://github.com/Gagabooga3000/chucmobla)** - Проект Мобильного Приложения для колледжа
+<div align="center">
+  
+  | Проект | Описание |
+  |--------|----------|
+  | **[TechMVP](https://github.com/Gagabooga3000/TechMVP)** | 🚀 Технологический MVP проект |
+  | **[Cloud Storage Site](https://github.com/Gagabooga3000/Cloud-Storage-Site)** | ☁️ Сайт облачного хранилища |
+  | **[Internet Shop Project](https://github.com/Gagabooga3000/Internet-Shop-project)** | 🛒 Проект интернет-магазина |
+  | **[Chucmobla](https://github.com/Gagabooga3000/chucmobile)** | 📱 Проект Мобильного Приложения для колледжа |
+  
+</div>
 
 ---
 
@@ -119,10 +158,10 @@ const gagabooga3000 = {
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagabooga3000)
-  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pb_bunny/)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pb_bunny)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fantapavel16@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagabooga3000)
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
   
 </div>
 
@@ -140,10 +179,19 @@ const gagabooga3000 = {
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=Gagabooga3000&label=Количество%20посетителей&color=00D9FF&style=for-the-badge" alt="Количество посетителей" />
+  ### 👀 Количество посетителей
   
-  **Спасибо за посещение! ❤️**
+  ![Visitor Count](https://profile-counter.glitch.me/Gagabooga3000/count.svg)
   
-  ⭐️ От [gagabooga3000](https://github.com/Gagabooga3000)
+  ---
+  
+  ### ⭐️ Спасибо за посещение! ❤️
+  
+  ![Snake animation](https://github.com/Gagabooga3000/Gagabooga3000/blob/output/github-contribution-grid-snake.svg)
+  
+  ---
+  
+  **⭐️ От [Gagabooga3000](https://github.com/Gagabooga3000)**
   
 </div>
+
