@@ -1,197 +1,246 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Привет%2C+я+Gagabooga3000!;%F0%9F%9A%80+Full+Stack+Developer;%E2%9C%A8+Создаю+крутые+проекты" alt="Typing SVG" />
+
+<!-- Анимированный заголовок с градиентом -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Привет,+я+Gagabooga3000!;💻+Люблю+программировать;🚀+Постоянно+развиваюсь+и+познаю+новое&font=Fira%20Code&color=667eea&size=35&center=true&width=700&height=50&duration=3000&pause=1000" alt="Анимация печатающегося текста" />
+</h1>
+
+<!-- 3D Анимированные бейджи -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
 </div>
 
----
+<br/>
+
+<!-- Статистика GitHub с тёмной темой -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gagabooga3000&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea&border_radius=10" alt="Статистика GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagabooga3000&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&title_color=667eea&text_color=ffffff&border_color=667eea&border_radius=10" alt="Топ языков программирования" />
+</div>
+
+<br/>
+
+<!-- Статистика серий -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagabooga3000&theme=radical&background=0D1117&border=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="Серия коммитов GitHub" />
+</div>
+
+<br/>
+
+<!-- 3D Анимированные карточки -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🚀 Мои проекты
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagabooga3000&repo=TechMVP&theme=radical&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea" alt="Проект TechMVP" />
+</p>
+
+</td>
+<td width="50%" align="center">
+
+### 💡 Активность
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagabooga3000&theme=radical&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Граф активности GitHub" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Секция навыков -->
+<h2 align="center">🛠️ Технологии и инструменты</h2>
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/Gagabooga3000?style=for-the-badge&logo=github&label=Followers&color=00D9FF)
-  ![GitHub stars](https://img.shields.io/github/stars/Gagabooga3000?style=for-the-badge&logo=github&label=Stars&color=00D9FF)
-  ![Profile views](https://komarev.com/ghpvc/?username=Gagabooga3000&style=for-the-badge&color=00D9FF&label=Profile+Views)
-  
+### Frontend & Web
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Backend & Базы данных
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Mobile & Другое
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+### Инструменты
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 </div>
 
----
+<br/>
 
-## 👨‍💻 Обо мне
+<!-- Анимированные иконки с 3D эффектом -->
+<div align="center">
+  <svg width="60" height="60" style="display: inline-block; margin: 5px;">
+    <defs>
+      <linearGradient id="jsGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#F7DF1E;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#F0DB4F;stop-opacity:1" />
+      </linearGradient>
+      <animateTransform attributeName="transform" type="rotate" values="0 30 30;360 30 30" dur="8s" repeatCount="indefinite"/>
+    </defs>
+    <foreignObject x="5" y="5" width="50" height="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    </foreignObject>
+  </svg>
+  <svg width="60" height="60" style="display: inline-block; margin: 5px;">
+    <defs>
+      <animateTransform attributeName="transform" type="rotate" values="360 30 30;0 30 30" dur="10s" repeatCount="indefinite"/>
+    </defs>
+    <foreignObject x="5" y="5" width="50" height="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+    </foreignObject>
+  </svg>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+</div>
 
-```javascript
-const gagabooga3000 = {
-  pronouns: "он/его",
-  code: [
-    "JavaScript", "CSS", "HTML", 
-    "Python", "C#", "SQL", 
-    "MySQL", "PostgreSQL", "PHP", "Node.js"
-  ],
-  tools: [
-    "Visual Studio Code", 
-    "Visual Studio", 
-    "AI Tools"
-  ],
-  interests: [
-    "Веб-разработка", 
-    "Backend разработка", 
-    "Базы данных"
-  ],
-  learning: "Всегда изучаю что-то новое",
-  funFact: "Люблю программировать и создавать интересные проекты!"
-};
-```
+<br/>
 
----
+<!-- Анимация змейки -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gagabooga3000/Gagabooga3000/output/github-contribution-grid-snake.svg" alt="Анимация змейки из коммитов" />
+</div>
 
-## 🛠️ Технологический стек
+<br/>
 
-### 💻 Языки программирования
+<!-- Секция контактов -->
+<h2 align="center">📬 Связь со мной</h2>
 
 <div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  
+  <a href="https://github.com/Gagabooga3000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://steamcommunity.com/id/pb_bunny/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  <a href="https://vk.com/pb.bunny" target="_blank">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте" />
+  </a>
+  <a href="https://t.me/pb_bunny" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </div>
 
-### 🗄️ Базы данных
+<br/>
 
+<!-- Секция трофеев -->
 <div align="center">
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=Gagabooga3000&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Трофеи GitHub" />
 </div>
 
-### ⚙️ Backend & Runtime
+<br/>
 
+<!-- Секция о себе -->
 <div align="center">
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  
+  <h2 align="center">💭 О себе</h2>
+  <p align="center">
+    💻 Люблю программировать и создавать интересные проекты<br/>
+    🚀 Постоянно развиваюсь и познаю новое<br/>
+    🎯 Стремлюсь к совершенству в коде и новых технологиях
+  </p>
 </div>
 
-### 🛠️ Инструменты разработки
+<br/>
 
+<!-- Счётчик просмотров -->
 <div align="center">
-  
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![AI Tools](https://img.shields.io/badge/AI%20Tools-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-  
+  <img src="https://komarev.com/ghpvc/?username=Gagabooga3000&color=667eea&style=for-the-badge" alt="Просмотры профиля" />
 </div>
 
----
+<br/>
 
-## 📊 Статистика GitHub
-
+<!-- Подвал -->
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gagabooga3000&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=65&section=footer" alt="Подвал" />
 </div>
 
-<div align="center">
+<!-- 3D Анимированный SVG фон -->
+<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg" style="margin-top: 20px;">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1">
+        <animate attributeName="stop-opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1">
+        <animate attributeName="stop-opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1">
+        <animate attributeName="stop-opacity" values="0.3;1;0.3" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagabooga3000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+  <!-- Плавающие 3D элементы -->
+  <g transform="translate(50, 30)">
+    <circle cx="0" cy="0" r="15" fill="url(#grad1)" filter="url(#glow)" opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 30,20; 0,0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="15;20;15" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagabooga3000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+  <g transform="translate(200, 50)">
+    <circle cx="0" cy="0" r="12" fill="url(#grad1)" filter="url(#glow)" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -25,15; 0,0" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="12;18;12" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
   
+  <g transform="translate(400, 40)">
+    <circle cx="0" cy="0" r="18" fill="url(#grad1)" filter="url(#glow)" opacity="0.4">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 20,-25; 0,0" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="18;25;18" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <g transform="translate(600, 60)">
+    <circle cx="0" cy="0" r="10" fill="url(#grad1)" filter="url(#glow)" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -30,-20; 0,0" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="10;16;10" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Вращающиеся элементы -->
+  <g transform="translate(300, 60)">
+    <rect x="-10" y="-10" width="20" height="20" fill="url(#grad1)" opacity="0.3">
+      <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="15s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  
+  <g transform="translate(700, 50)">
+    <polygon points="-8,-8 8,-8 0,8" fill="url(#grad1)" opacity="0.4">
+      <animateTransform attributeName="transform" type="rotate" values="0 0 0;-360 0 0" dur="12s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+</svg>
+
 </div>
-
----
-
-## 🎯 Трофеи GitHub
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Gagabooga3000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-  
-</div>
-
----
-
-## 📈 График активности
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagabooga3000&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)
-  
-</div>
-
----
-
-## 🔥 Недавняя активность
-
-<!--START_SECTION:activity-->
-1. 🎉 Открыл новый репозиторий
-2. 💪 Начал работу над новым проектом
-3. 🚀 Отправил коммиты в основную ветку
-4. 📝 Обновил README.md
-5. ⭐ Отметил репозиторий звездой
-<!--END_SECTION:activity-->
-
----
-
-## 💼 Мои проекты
-
-### 🔥 Избранные проекты
-
-<div align="center">
-  
-  | Проект | Описание |
-  |--------|----------|
-  | **[TechMVP](https://github.com/Gagabooga3000/TechMVP)** | 🚀 Технологический MVP проект |
-  | **[Cloud Storage Site](https://github.com/Gagabooga3000/Cloud-Storage-Site)** | ☁️ Сайт облачного хранилища |
-  | **[Internet Shop Project](https://github.com/Gagabooga3000/Internet-Shop-project)** | 🛒 Проект интернет-магазина |
-  | **[Chucmobla](https://github.com/Gagabooga3000/chucmobile)** | 📱 Проект Мобильного Приложения для колледжа |
-  
-</div>
-
----
-
-## 📫 Связь со мной
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagabooga3000)
-  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-  
-</div>
-
----
-
-## 💡 Случайная цитата разработчика
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 👀 Количество посетителей
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Gagabooga3000/count.svg)
-  
-  ---
-  
-  ### ⭐️ Спасибо за посещение! ❤️
-  
-  ![Snake animation](https://github.com/Gagabooga3000/Gagabooga3000/blob/output/github-contribution-grid-snake.svg)
-  
-  ---
-  
-  **⭐️ От [Gagabooga3000](https://github.com/Gagabooga3000)**
-  
-</div>
-
