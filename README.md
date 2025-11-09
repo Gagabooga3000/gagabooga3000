@@ -2,7 +2,7 @@
 
 <!-- Анимированный заголовок с градиентом -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Привет,+я+Gagabooga3000!;💻+Люблю+программировать;🚀+Постоянно+развиваюсь+и+познаю+новое&font=Fira%20Code&color=667eea&size=35&center=true&width=700&height=50&duration=3000&pause=1000" alt="Анимация печатающегося текста" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Привет,+я+Павел!;💻+Люблю+программировать;🚀+Постоянно+развиваюсь+и+познаю+новое&font=Fira%20Code&color=667eea&size=35&center=true&width=900&height=60&duration=4000&pause=1500" alt="Анимация печатающегося текста" />
 </h1>
 
 <!-- 3D Анимированные бейджи -->
@@ -38,7 +38,18 @@
 
 ### 🚀 Мои проекты
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagabooga3000&repo=TechMVP&theme=radical&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea" alt="Проект TechMVP" />
+  <a href="https://github.com/Gagabooga3000/TechMVP" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagabooga3000&repo=TechMVP&theme=radical&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea" alt="Проект TechMVP" />
+  </a>
+  <a href="https://github.com/Gagabooga3000/site-Cloud-storage" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagabooga3000&repo=site-Cloud-storage&theme=radical&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea" alt="Проект Cloud Storage" />
+  </a>
+  <a href="https://github.com/Gagabooga3000/site-word-kiberpride" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagabooga3000&repo=site-word-kiberpride&theme=radical&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea" alt="Проект Kiberpride" />
+  </a>
+  <a href="https://github.com/Gagabooga3000/chucmobla" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagabooga3000&repo=chucmobla&theme=radical&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea" alt="Проект Chucmobla" />
+  </a>
 </p>
 
 </td>
@@ -119,10 +130,26 @@
 
 <br/>
 
-<!-- Анимация змейки -->
+<!-- Анимация змейки из коммитов -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gagabooga3000/Gagabooga3000/output/github-contribution-grid-snake.svg" alt="Анимация змейки из коммитов" />
+  <img 
+    src="https://raw.githubusercontent.com/Gagabooga3000/gagabooga3000/output/github-contribution-grid-snake.svg" 
+    alt="Анимация змейки из коммитов"
+  />
 </div>
+
+<!-- 
+  ⚙️ ИНСТРУКЦИЯ ПО НАСТРОЙКЕ ЗМЕЙКИ:
+  
+  1. Убедитесь, что репозиторий gagabooga3000 существует
+  2. Скопируйте файл .github/workflows/snake.yml в этот репозиторий
+  3. Перейдите в репозиторий Gagabooga3000/gagabooga3000
+  4. Откройте вкладку Actions
+  5. Найдите "Generate Snake Animation" и нажмите "Run workflow"
+  6. После выполнения workflow змейка появится автоматически
+  
+  Альтернатива: используйте сервис https://github.com/Platane/snk для генерации
+-->
 
 <br/>
 
