@@ -53,6 +53,9 @@
   <a href="https://github.com/Gagabooga3000/chucmobla" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagabooga3000&repo=chucmobla&theme=radical&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea" alt="Проект Chucmobla" />
   </a>
+  <a href="https://github.com/Gagabooga3000/Portfolio-Site" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagabooga3000&repo=Portfolio-Site&theme=radical&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_color=667eea" alt="Portfolio-Site" />
+  </a>
 </p>
 
 </td>
